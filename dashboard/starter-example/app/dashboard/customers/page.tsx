@@ -2,7 +2,7 @@ import React from 'react'
 
 const Page = () => {
   return (
-    <div>Customers Page</div>
+    <div>Customers</div>
   )
 }
 
